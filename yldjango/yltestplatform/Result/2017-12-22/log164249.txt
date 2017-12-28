@@ -1,0 +1,13 @@
+2017-12-22 16:42:49,600 - connectionpool.py[line:824] - DEBUG: Starting new HTTPS connection (1): yltest.xylpay.com
+2017-12-22 16:42:59,654 - connectionpool.py[line:824] - DEBUG: Starting new HTTPS connection (1): yltest.xylpay.com
+2017-12-22 16:43:01,678 - connectionpool.py[line:396] - DEBUG: https://yltest.xylpay.com:443 "POST /jinfu/web/shopkeeper/auth/login HTTP/1.1" 200 None
+2017-12-22 16:43:01,693 - LogPage.py[line:39] - DEBUG: ===>掌柜登录成功
+2017-12-22 16:43:01,693 - LogPage.py[line:40] - WARNING: ===>掌柜登录成功
+2017-12-22 16:43:01,693 - LogPage.py[line:41] - ERROR: ===>掌柜登录成功
+2017-12-22 16:43:01,695 - LogPage.py[line:42] - CRITICAL: ===>掌柜登录成功
+2017-12-22 16:43:01,704 - connectionpool.py[line:824] - DEBUG: Starting new HTTPS connection (1): yltest.xylpay.com
+2017-12-22 16:43:01,970 - connectionpool.py[line:396] - DEBUG: https://yltest.xylpay.com:443 "GET /loan-web/contract/pending/list?applId=302142230805512021 HTTP/1.1" 200 None
+2017-12-22 16:43:01,980 - LogPage.py[line:39] - DEBUG: 非自由资金、金服资金，不支持自动签约
+2017-12-22 16:43:01,992 - LogPage.py[line:40] - WARNING: 非自由资金、金服资金，不支持自动签约
+2017-12-22 16:43:01,992 - LogPage.py[line:41] - ERROR: 非自由资金、金服资金，不支持自动签约
+2017-12-22 16:43:01,993 - LogPage.py[line:42] - CRITICAL: 非自由资金、金服资金，不支持自动签约

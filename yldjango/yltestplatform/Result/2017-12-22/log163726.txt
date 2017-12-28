@@ -1,0 +1,10 @@
+2017-12-22 16:37:26,762 - connectionpool.py[line:824] - DEBUG: Starting new HTTPS connection (1): yltest.xylpay.com
+2017-12-22 16:37:27,038 - connectionpool.py[line:396] - DEBUG: https://yltest.xylpay.com:443 "POST /jinfu/web/shopkeeper/auth/login HTTP/1.1" 200 None
+2017-12-22 16:37:27,045 - LogPage.py[line:39] - DEBUG: ===>ÕÆ¹ñµÇÂ¼³É¹¦
+2017-12-22 16:37:32,048 - connectionpool.py[line:824] - DEBUG: Starting new HTTPS connection (1): yltest.xylpay.com
+2017-12-22 16:37:32,226 - connectionpool.py[line:396] - DEBUG: https://yltest.xylpay.com:443 "POST /jinfu/web/loan/apply/start HTTP/1.1" 200 105
+2017-12-22 16:37:32,233 - connectionpool.py[line:824] - DEBUG: Starting new HTTPS connection (1): yltest.xylpay.com
+2017-12-22 16:37:32,469 - connectionpool.py[line:396] - DEBUG: https://yltest.xylpay.com:443 "POST /jinfu/web/shopkeeper/auth/login HTTP/1.1" 200 None
+2017-12-22 16:37:32,483 - LogPage.py[line:39] - DEBUG: ===>ÕÆ¹ñµÇÂ¼³É¹¦
+2017-12-22 16:37:32,487 - connectionpool.py[line:824] - DEBUG: Starting new HTTPS connection (1): yltest.xylpay.com
+2017-12-22 16:37:32,680 - connectionpool.py[line:396] - DEBUG: https://yltest.xylpay.com:443 "GET /loan-web/contract/pending/list?applId=302142230805512021 HTTP/1.1" 200 None

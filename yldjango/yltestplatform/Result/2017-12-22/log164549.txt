@@ -1,0 +1,16 @@
+2017-12-22 16:45:49,044 - connectionpool.py[line:824] - DEBUG: Starting new HTTPS connection (1): yltest.xylpay.com
+2017-12-22 16:45:49,341 - connectionpool.py[line:396] - DEBUG: https://yltest.xylpay.com:443 "POST /jinfu/web/shopkeeper/auth/login HTTP/1.1" 200 None
+2017-12-22 16:45:49,352 - LogPage.py[line:39] - DEBUG: ===>ÕÆ¹ñµÇÂ¼³É¹¦
+2017-12-22 16:45:49,353 - LogPage.py[line:40] - WARNING: ===>ÕÆ¹ñµÇÂ¼³É¹¦
+2017-12-22 16:45:49,353 - LogPage.py[line:41] - ERROR: ===>ÕÆ¹ñµÇÂ¼³É¹¦
+2017-12-22 16:45:49,353 - LogPage.py[line:42] - CRITICAL: ===>ÕÆ¹ñµÇÂ¼³É¹¦
+2017-12-22 16:45:54,358 - connectionpool.py[line:824] - DEBUG: Starting new HTTPS connection (1): yltest.xylpay.com
+2017-12-22 16:45:55,279 - connectionpool.py[line:396] - DEBUG: https://yltest.xylpay.com:443 "POST /jinfu/web/loan/apply/start HTTP/1.1" 200 None
+2017-12-22 16:45:55,286 - connectionpool.py[line:824] - DEBUG: Starting new HTTPS connection (1): yltest.xylpay.com
+2017-12-22 16:45:55,554 - connectionpool.py[line:396] - DEBUG: https://yltest.xylpay.com:443 "POST /jinfu/web/shopkeeper/auth/login HTTP/1.1" 200 None
+2017-12-22 16:45:55,562 - LogPage.py[line:39] - DEBUG: ===>ÕÆ¹ñµÇÂ¼³É¹¦
+2017-12-22 16:45:55,563 - LogPage.py[line:40] - WARNING: ===>ÕÆ¹ñµÇÂ¼³É¹¦
+2017-12-22 16:45:55,563 - LogPage.py[line:41] - ERROR: ===>ÕÆ¹ñµÇÂ¼³É¹¦
+2017-12-22 16:45:55,563 - LogPage.py[line:42] - CRITICAL: ===>ÕÆ¹ñµÇÂ¼³É¹¦
+2017-12-22 16:45:55,565 - connectionpool.py[line:824] - DEBUG: Starting new HTTPS connection (1): yltest.xylpay.com
+2017-12-22 16:45:56,959 - connectionpool.py[line:396] - DEBUG: https://yltest.xylpay.com:443 "GET /loan-web/contract/pending/list?applId=302142230805512021 HTTP/1.1" 200 None
